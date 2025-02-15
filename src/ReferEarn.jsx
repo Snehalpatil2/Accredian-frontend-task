@@ -13,7 +13,7 @@ export default function ReferEarn() {
 
   const onSubmit = async (data) => {
     try {
-      const response = await fetch("https://accredian-backend-task-it93.onrender.com", {
+      const response = await fetch("https://accredian-backend-task-it93.onrender.com/api/referrals/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),

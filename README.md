@@ -35,8 +35,8 @@ This is the frontend for the **Refer & Earn** landing page, built using React.js
 
 ## 🔥 Deployment
 
-This project is deployed on **Vercel/Netlify**.  
-Live URL: [Your Frontend Live Link Here]
+This project is deployed on **Netlify**.  
+Live URL: "https://sparkly-sfogliatella-994550.netlify.app/"
 
 ## 📄 Environment Variables
 
