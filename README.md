@@ -42,7 +42,7 @@ Live URL: [Your Frontend Live Link Here]
 
 Create a `.env` file in the root directory and add the following:
 ```
-VITE_API_BASE_URL=<Your Backend API URL>
+BACKEND_API_URL="https://accredian-backend-task-it93.onrender.com"
 ```
 
 ## 📜 Author
